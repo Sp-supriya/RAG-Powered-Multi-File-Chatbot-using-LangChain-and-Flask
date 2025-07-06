@@ -1,0 +1,10 @@
+Flask
+langchain
+faiss-cpu
+sentence-transformers
+transformers
+torch
+unstructured
+pymupdf
+python-dotenv
+gunicorn  # if you plan to deploy to Render or Heroku
