@@ -23,3 +23,38 @@ This is a Retrieval-Augmented Generation (RAG) based chatbot built with Flask, L
    ```bash
    git clone https://github.com/your-username/rag-chatbot
    cd rag-chatbot
+2. Install dependencies:
+
+bash
+Copy
+Edit
+pip install -r requirements.txt
+3. Run the app:
+
+bash
+Copy
+Edit
+python app2.py
+4. Open browser and go to:
+
+cpp
+Copy
+Edit
+http://127.0.0.1:5000/
+📁 Folder Structure
+cpp
+Copy
+Edit
+rag-chatbot/
+├── app2.py
+├── uploads/
+├── templates/
+├── static/
+└── README.md
+📌 Note
+Ensure all required libraries are installed.
+
+The chatbot runs locally and uses CPU by default.
+
+🧑‍💻 Author
+Supriya | GitHub
